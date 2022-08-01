@@ -1,0 +1,11 @@
+version: v1
+
+id:
+  org: 169699e8-b48d-45ec-9dea-cd6bb8da241f
+  app: 5f9ef77e-44cd-44d5-9ee9-7fd0314e6f0c
+
+scanners:
+  - sast
+
+languages:
+  - java
